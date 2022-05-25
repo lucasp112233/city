@@ -1,0 +1,16 @@
+body{
+    background-color:brown;
+
+}
+table{
+    border-collapse: separate;
+    border-spacing: 20px 8px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: white;
+}
